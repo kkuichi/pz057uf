@@ -14,12 +14,15 @@ a musia byť vyžiadané samostatne.
 - Predikcia závažnosti priebehu ochorenia pomocou klasifikačných modelov strojového učenia
 
 ## Štruktúra projektu
+
+```
 ├── 01_Nacitanie_a_transformacia.ipynb     # načítanie, transformácia, analýza pokrytia
 ├── 02_Extrakcia_zo_stlpcov.ipynb          # extrakcia príznakov a výpočet indexov
 ├── 03_Modelovanie.ipynb                   # klasifikačné experimenty
 ├── rozsah_hodnot_atributov_vyplnene.xlsx  # referenčné rozsahy laboratórnych parametrov
 ├── requirements.txt
 └── README.md
+```
 
 ## Systémové požiadavky
 

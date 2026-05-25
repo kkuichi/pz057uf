@@ -1,7 +1,4 @@
-# ============================================================
-# requirements.txt
 # Bakalárska práca – Pochopenie a príprava dát o pacientoch s COVID-19
-# Peter Zeleňák, TUKE FEI KKUI, 2026
 # ============================================================
 # Prostredie: Python 3.10+
 # Inštalácia: pip install -r requirements.txt
